@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\RockPaperScissors.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\RockPaperScissors.dir/objects.a @CMakeFiles\RockPaperScissors.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\RockPaperScissors.dir/objects.a -Wl,--no-whole-archive -o RockPaperScissors.exe -Wl,--out-implib,libRockPaperScissors.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RockPaperScissors.dir\linkLibs.rsp

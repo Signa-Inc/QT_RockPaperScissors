@@ -1,0 +1,2 @@
+CMakeFiles/RockPaperScissors.dir/RockPaperScissors_autogen/EWIEGA46WW/qrc_resources.cpp.obj: \
+ C:\Users\Met\ Got\Documents\RockPaperScissors\build\Desktop_Qt_6_11_0_MinGW_64_bit-u041eu0442u043bu0430u0434u043au0430\RockPaperScissors_autogen\EWIEGA46WW\qrc_resources.cpp
